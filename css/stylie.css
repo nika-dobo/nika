@@ -1,0 +1,125 @@
+.ee{
+	position: fixed;
+    top: 21px;
+    left: 0;
+    margin-left: 137px;
+}
+.qq{
+	width: 32px;
+	height: 13px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin: 0px 20px 0px 20px;
+}
+.q1{
+	width: 59px;
+	height: 13px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin: 0px 20px 0px 20px;
+}
+.q2{
+	width: 44px;
+	height: 13px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin: 0px 20px 0px 20px;
+}
+.q3{
+	width: 50px;
+	height: 13px;
+	color: #000;
+	font-family: Roboto;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	display: inline-block;
+	margin: 0px 20px 0px 20px;
+}
+.ww{
+	width: 32px;
+	height: 32px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.rr{
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 76px 0px 0px 137px;
+
+}
+.yy{
+	width: 362px;
+	height: 186px;
+	flex-shrink: 0;
+	margin: 80px 0px 0px 138px;
+}
+.ii{
+	width: 238px;
+	height: 36px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin: 90px 0px 0px 175px;
+	position: absolute;
+	bottom: 100px;
+	left: -120px;
+}
+.oo{
+	width: 16px;
+	height: 16px;
+	margin: 0px 0px 0px 178px;
+	display: inline-block;
+	z-index: 100;
+	position: absolute;
+	bottom: 80px;
+	left: -110px;
+}
+.pp{
+	width: 34px;
+	height: 12px;
+	color: #8A8787;
+	font-family: Roboto;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	vertical-align: middle;
+	margin-left: 10px;
+	display: inline-block;
+	position: absolute;
+	bottom: 80px;
+	left: 90px;
+}
+.uu{
+	width: 362px;
+	height: 171px;
+	border-radius: 0px 0px 5px 5px;
+	background-color: lightgray;
+	position: relative;
+	top: -2px;
+	left: 138px;
+}
